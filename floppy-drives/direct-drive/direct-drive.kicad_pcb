@@ -138,7 +138,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 905b154b-e92b-469d-b2e2-340d67daddb7)
     )
-    (fp_text value "100nF" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "10nF" (at 0 1.43) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 778b0e81-d70b-4705-ae45-b4c475c88dab)
     )
